@@ -1,12 +1,12 @@
 # image_processing
 
 Description. 
-The package package_name is used to:
-	- Processing:
+The package image_processing is used to:
+	Processing:
 		- Histogram matching
 		- Structural similarity
 		- Resize image
-	- Utils:
+	Utils:
 		- Read image
 		- Save image
 		- Plot image
